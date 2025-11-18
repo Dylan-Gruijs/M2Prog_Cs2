@@ -1,0 +1,15 @@
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.AssemblyInfo.cs
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.sourcelink.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\bin\Debug\net9.0\01 functions.exe
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\bin\Debug\net9.0\01 functions.deps.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\bin\Debug\net9.0\01 functions.runtimeconfig.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\bin\Debug\net9.0\01 functions.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\bin\Debug\net9.0\01 functions.pdb
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\refint\01 functions.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.pdb
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\01 functions.genruntimeconfig.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\01 functions\obj\Debug\net9.0\ref\01 functions.dll
