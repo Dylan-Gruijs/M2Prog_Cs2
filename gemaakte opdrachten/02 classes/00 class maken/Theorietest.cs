@@ -1,7 +1,8 @@
 namespace _00_class_maken;
 
-internal class RijTest
+internal class TheorieTest
 {
+    internal int aantalFouten;
     internal bool gehaald;
     internal DateTime afnameDatum;
 }
