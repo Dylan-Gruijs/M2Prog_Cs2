@@ -4,6 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Program program = new Program();
+        program.Run();
+    }
+
+    internal void Run()
+    {
+        Quiz quiz = new Quiz(10);
+        QuizVraag quizVraag = new QuizVraag("hier komt vraag", "hier komt antwoord");
     }
 }

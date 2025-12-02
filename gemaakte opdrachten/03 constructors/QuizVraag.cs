@@ -7,12 +7,7 @@ class QuizVraag
 
     internal QuizVraag(string vraag, string antwoord)
     {
-        this vraag = vraag;
-        this antwoord = antwoord;
-    }
-
-    private void Run()
-    {
-        QuizVraag quizVraag = new QuizVraag("hier komt vraag", "hier komt antwoord");
+        this.vraag = vraag;
+        this.antwoord = antwoord;
     }
 }
