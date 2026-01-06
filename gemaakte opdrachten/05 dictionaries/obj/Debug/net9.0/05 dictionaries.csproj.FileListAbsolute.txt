@@ -1,0 +1,15 @@
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\bin\Debug\net9.0\05 dictionaries.exe
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\bin\Debug\net9.0\05 dictionaries.deps.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\bin\Debug\net9.0\05 dictionaries.runtimeconfig.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\bin\Debug\net9.0\05 dictionaries.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\bin\Debug\net9.0\05 dictionaries.pdb
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.AssemblyInfo.cs
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.sourcelink.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\refint\05 dictionaries.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.pdb
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\05 dictionaries.genruntimeconfig.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\05 dictionaries\obj\Debug\net9.0\ref\05 dictionaries.dll
