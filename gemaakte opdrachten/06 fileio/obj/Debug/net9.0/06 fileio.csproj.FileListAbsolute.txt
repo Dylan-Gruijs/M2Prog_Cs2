@@ -1,0 +1,17 @@
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\06 fileio.exe
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\quiz.txt
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\06 fileio.deps.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\06 fileio.runtimeconfig.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\06 fileio.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\06 fileio.pdb
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.AssemblyInfoInputs.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.AssemblyInfo.cs
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.sourcelink.json
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\refint\06 fileio.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.pdb
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\06 fileio.genruntimeconfig.cache
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\obj\Debug\net9.0\ref\06 fileio.dll
+C:\Users\dylan\Documents\School\Programeren C#\M2Prog_Cs2\gemaakte opdrachten\06 fileio\bin\Debug\net9.0\nos.nl
