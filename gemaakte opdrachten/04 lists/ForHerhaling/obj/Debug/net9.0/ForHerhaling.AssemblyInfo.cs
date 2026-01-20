@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForHerhaling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+822f0fc563b4bf5e49cfd2db29f3f552dc345b6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab760d26e3e689054fdd6377e539d3453f17f670")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForHerhaling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForHerhaling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

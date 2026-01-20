@@ -30,6 +30,9 @@
             Console.WriteLine("What is your favorite show/movie?");
             string antwoord5 = Console.ReadLine();
             Console.WriteLine(antwoord5);
+            
+            string antwoord= Vraag7();
+            Console.WriteLine(antwoord)
         }
         internal string Vraag7()
         {
